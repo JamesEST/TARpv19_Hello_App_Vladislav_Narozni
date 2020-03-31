@@ -1,0 +1,7 @@
+C:\Users\lomik\source\repos\JamesEST\TARpv19-Vladislav_Narozni\TARpv19_Vladislav_Naronzi\TARpv19_Vladislav_Naronzi\bin\Debug\TARpv19_Vladislav_Naronzi.exe.config
+C:\Users\lomik\source\repos\JamesEST\TARpv19-Vladislav_Narozni\TARpv19_Vladislav_Naronzi\TARpv19_Vladislav_Naronzi\bin\Debug\TARpv19_Vladislav_Naronzi.exe
+C:\Users\lomik\source\repos\JamesEST\TARpv19-Vladislav_Narozni\TARpv19_Vladislav_Naronzi\TARpv19_Vladislav_Naronzi\bin\Debug\TARpv19_Vladislav_Naronzi.pdb
+C:\Users\lomik\source\repos\JamesEST\TARpv19-Vladislav_Narozni\TARpv19_Vladislav_Naronzi\TARpv19_Vladislav_Naronzi\obj\Debug\TARpv19_Vladislav_Naronzi.csprojAssemblyReference.cache
+C:\Users\lomik\source\repos\JamesEST\TARpv19-Vladislav_Narozni\TARpv19_Vladislav_Naronzi\TARpv19_Vladislav_Naronzi\obj\Debug\TARpv19_Vladislav_Naronzi.csproj.CoreCompileInputs.cache
+C:\Users\lomik\source\repos\JamesEST\TARpv19-Vladislav_Narozni\TARpv19_Vladislav_Naronzi\TARpv19_Vladislav_Naronzi\obj\Debug\TARpv19_Vladislav_Naronzi.exe
+C:\Users\lomik\source\repos\JamesEST\TARpv19-Vladislav_Narozni\TARpv19_Vladislav_Naronzi\TARpv19_Vladislav_Naronzi\obj\Debug\TARpv19_Vladislav_Naronzi.pdb
